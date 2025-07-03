@@ -64,7 +64,7 @@ Use the included `test_detailed_document.pdf` or upload your own notes to test t
 
 ## 📸 Screenshots
 
-![AI Screenshot](https://i.imgur.com/example.png)
+![AI Screenshot]([)](https://github.com/pradhyumn07/ai-learning-assistant/blob/main/Screenshot%202025-07-03%20134155.png)
 
 ---
 
