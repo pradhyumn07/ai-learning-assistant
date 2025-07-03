@@ -64,7 +64,7 @@ Use the included `test_detailed_document.pdf` or upload your own notes to test t
 
 ## 📸 Screenshots
 
-> *You can insert screenshots here once your app is running.*
+![AI Screenshot](https://i.imgur.com/example.png)
 
 ---
 
